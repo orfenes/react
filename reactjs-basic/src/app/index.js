@@ -1,0 +1,1 @@
+console.log('Chamando essa paradinha marota');
